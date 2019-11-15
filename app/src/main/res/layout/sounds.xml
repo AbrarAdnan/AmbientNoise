@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <TextView
+        android:gravity="center"
+        android:textAllCaps="true"
+        android:textAppearance="@style/Base.TextAppearance.AppCompat.Large"
+        android:textStyle="bold"
+        android:layout_width="300dp"
+        android:textColor="#ffffff"
+        android:outlineAmbientShadowColor="#000"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:id="@+id/soundtextID"
+        />
+
+</android.support.constraint.ConstraintLayout>

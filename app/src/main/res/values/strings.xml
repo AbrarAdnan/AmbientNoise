@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Ambient Noise</string>
+    <string-array name="noise_names">
+        <item>fire</item>
+        <item>rain</item>
+        <item>river</item>
+        <item>seawave</item>
+        <item>street</item>
+        <item>waterfall</item>
+    </string-array>
+</resources>
