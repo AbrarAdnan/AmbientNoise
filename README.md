@@ -1,2 +1,2 @@
 # AmbientNoiseApp
-A app to play ambient noise
+An app to play ambient noise
